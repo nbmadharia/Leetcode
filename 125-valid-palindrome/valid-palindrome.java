@@ -13,9 +13,9 @@ class Solution {
             first = s.charAt(i);
             second = s.charAt(j);
             
-            System.out.println("i is: "+ i + " j is: "+ j);
-            System.out.println("first is: "+first);
-            System.out.println("second is: " + second);
+            // System.out.println("i is: "+ i + " j is: "+ j);
+            // System.out.println("first is: "+first);
+            // System.out.println("second is: " + second);
             
             if(first != second){
                 
