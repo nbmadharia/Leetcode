@@ -1,7 +1,7 @@
 class Solution {
     public int majorityElement(int[] nums) {
         HashMap<Integer, Integer> mp = new HashMap<>();
-        int out=-20;
+        int out=0;
         for (int num : nums) {
             if (mp.containsKey(num)) {
                 // System.out.println(mp);
