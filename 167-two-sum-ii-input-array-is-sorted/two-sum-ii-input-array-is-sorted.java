@@ -3,7 +3,6 @@ class Solution {
             
             int start = 0;
             int end= numbers.length -1;
-            int currentSum= 0;
             int[] out = new int[2];
             for(int i=0; i<numbers.length -1 ;i++){
                 if(numbers[start ] + numbers[end] == target){
