@@ -1,0 +1,9 @@
+# LeetCode plugin files
+leetcode/editor/en/doc/
+
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
